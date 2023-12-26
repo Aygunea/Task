@@ -1,0 +1,2 @@
+Proqramistlər Java, Python, Ruby, Lisp, Go və s. kimi istənilən ilkin və ya yeni kompüter dillərində kompüter proqramları yaratmağı bacarırlar. Proqramçı, əsasən proqram inkişaf mərhələsinin tətbiq hissəsinə yönəlmiş bir insandır . 
+Tərtibatçı dizayn və digər xüsusiyyətlərə diqqət yetirərək tam qüsursuz bir kompüter proqramı yaza və yarada bilər. Onlar hər hansı bir proqram tətbiqinin inkişafı üçün açardırlar və ayrıca onlar ən azı bir proqramlaşdırma dilinin mütəxəssisləridir.

@@ -1,0 +1,5 @@
+ Proqramlaşdırma paradiqması bəzi proqramlaşdırma dilindən istifadə edərək problemi həll etmək üsuludur.
+Paradigma 2 cur: imperativ ve deklarativ proqramlaşdırma paradiqması.İmperativ(əmrli) programlaşdırma, bir programlaşdırma dilindəki əmrlərin sətir-bə-sətir verilməsidir. 
+Imperativ proqramlaşdırma paradiqması  3 cur olur: prosedural, oop, paralel processing.
+Deklarativ proqramlaşdırma paradiqması 3 cur olur: logic, databaza, dataflow.
+
